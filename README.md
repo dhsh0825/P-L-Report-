@@ -43,15 +43,7 @@ The data for this dashboard comes from Adidas' internal sales and financial repo
 1. **Clone the Repository**:
    Download or clone this repository to your local machine:
    ```bash
-   git clone https://github.com/dhsh0825/P-L-Report-.git
-
-Open the Excel File: Open the P-L-Report.xlsx file in Excel. Ensure macros are enabled if you want to use any interactive features like buttons or slicers.
-
-Explore the Dashboard:
-
-Use the filters for Region, Product, and Customer to drill down into specific data.
-Review the year-over-year performance, top products, and top customers.
-Analyze financial data to assess the performance in various markets.
+   git clone (https://github.com/dhsh0825/P-L-Report-)
 
 Dashboard Sections
 
